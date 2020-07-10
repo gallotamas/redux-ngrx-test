@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "redux-ngrx-test"
+    }
+  },
+  "defaultProject": "redux-ngrx-test",
+  "cli": {
+    "analytics": false
+  }
 }
