@@ -1,0 +1,2 @@
+export const SYNC_WITH_REDUX = 'SYNC_WITH_REDUX';
+export const SYNC_WITH_NGRX = 'SYNC_WITH_NGRX';
